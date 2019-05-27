@@ -2,7 +2,7 @@
     "name": "daniel-melzer/php-qa-toolkit",
     "description": "A collection of PHP code QA tools.",
     "type": "metapackage",
-    "require-dev": {
+    "require": {
         "phpstan/phpstan": "^0.11",
         "phpstan/phpstan-phpunit": "^0.11",
         "phpstan/phpstan-webmozart-assert": "^0.11",
