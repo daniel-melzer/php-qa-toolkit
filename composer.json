@@ -1,0 +1,14 @@
+{
+    "name": "daniel-melzer/php-qa-toolkit",
+    "description": "A collection of PHP code QA tools.",
+    "type": "metapackage",
+    "require-dev": {
+        "phpstan/phpstan": "^0.11",
+        "phpstan/phpstan-phpunit": "^0.11",
+        "phpstan/phpstan-webmozart-assert": "^0.11",
+        "phpunit/phpunit": "^8.0",
+        "roave/security-advisories": "dev-master",
+        "squizlabs/php_codesniffer": "^3.4",
+        "vimeo/psalm": "^0.3.6"
+    }
+}
